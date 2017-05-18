@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MultimediaApp2.iml" filepath="$PROJECT_DIR$/MultimediaApp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audiorecorder/audiorecorder.iml" filepath="$PROJECT_DIR$/audiorecorder/audiorecorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/audioreproductor/audioreproductor.iml" filepath="$PROJECT_DIR$/audioreproductor/audioreproductor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/capturafotos/capturafotos.iml" filepath="$PROJECT_DIR$/capturafotos/capturafotos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/videorecorder/videorecorder.iml" filepath="$PROJECT_DIR$/videorecorder/videorecorder.iml" />
+    </modules>
+  </component>
+</project>
